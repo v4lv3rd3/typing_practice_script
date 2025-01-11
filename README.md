@@ -21,3 +21,5 @@ pip install -p requirements.txt
 >[!Warning] 
 >The words to the test are inside the `words.txt` and the statistics is stored on `typing_records.db`
 
+>[!Tip] 
+>Modify `repetitions_per_word` var in function main() to change the number of times to write each word
