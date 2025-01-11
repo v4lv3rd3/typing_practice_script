@@ -19,5 +19,5 @@ pip install -p requirements.txt
 `nvim words.txt` or use the script menu
 
 >[!Warning] 
->The words to the test are inside the `words.txt` and the stadistics is stored on `typingre_cords.db`
+>The words to the test are inside the `words.txt` and the statistics is stored on `typing_records.db`
 
