@@ -4,7 +4,7 @@
 python3 -m venv .venv
 source .venv/bin/activate
 ```
->[!Info]
+>[!Tip]
 >you can disable it with `deactivate`
 
 
